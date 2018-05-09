@@ -6,7 +6,7 @@ categories: jekyll update
 permalink:  "/blog/Story"
 ---
 
-#### My Ph.D. thesis is about 3D diffusion MRI imaging, which is about 500 miles away form the original plan. Here is the story of how the project evolved during the 4-year term.
+#### My Ph.D. thesis is about 3D diffusion MRI imaging, which is about 512 miles away form the original plan. Here is the story of how the project evolved during the 4-year term.
 
 
 
