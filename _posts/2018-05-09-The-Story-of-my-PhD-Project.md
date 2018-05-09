@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Story of My Ph.D. Project"
+title:  "The Story of My Ph.D. Project"
 date:   2018-05-09 12:17:00 +0200
 categories: jekyll update
 permalink:  "/blog/Story"
