@@ -6,8 +6,10 @@ categories: jekyll update
 permalink:  "/blog/DISPENSE"
 ---
 
-###Diffusion Prepared Stimulated TSE for Eddy current robust 3D diffusion MRI
+### Diffusion Prepared Stimulated TSE for Eddy current robust 3D diffusion MRI
 
-![My helpful screenshot]({{ "/blog/DPsti-TSE/screenshot.jpg"}})
+![alt text](https://github.com/qinweizhang/kerry_research_blog/blob/gh-pages/_posts/DISPENSE/DISPENSE.jpg "Logo Title Text 1")
+
+
 
 This is the second part of my Ph.D. thesis.
