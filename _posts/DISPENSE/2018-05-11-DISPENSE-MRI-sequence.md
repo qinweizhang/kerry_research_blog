@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "DPsti-TSE"
+title:  "DISPENSE"
 date:   2018-05-12 11:08:00 +0200
 categories: jekyll update
-permalink:  "/blog/DPsti-TSE"
+permalink:  "/blog/DISPENSE"
 ---
 
 ###Diffusion Prepared Stimulated TSE for Eddy current robust 3D diffusion MRI
 
 ![My helpful screenshot]({{ "/blog/DPsti-TSE/screenshot.jpg"}})
 
-This is the first part of my Ph.D. thesis.
+This is the second part of my Ph.D. thesis.
