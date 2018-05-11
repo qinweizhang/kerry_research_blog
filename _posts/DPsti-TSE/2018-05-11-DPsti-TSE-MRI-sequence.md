@@ -8,6 +8,6 @@ permalink:  "/blog/DPsti-TSE"
 
 ###Diffusion Prepared Stimulated TSE for Eddy current robust 3D diffusion MRI
 
-![My helpful screenshot]({{ "/blog/DPsti-TSE/screenshot.jpg"}})
+![cover image]({https://github.com/qinweizhang/kerry_research_blog/blob/gh-pages/_posts/DPsti-TSE/DPsti-TSE.jpg})
 
 This is the first part of my Ph.D. thesis.
