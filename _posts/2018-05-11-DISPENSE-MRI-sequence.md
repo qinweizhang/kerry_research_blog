@@ -9,7 +9,7 @@ permalink:  "/blog/DISPENSE"
 ### Diffusion Prepared Stimulated TSE for Eddy current robust 3D diffusion MRI
 
 
-![DISPENSE](/asset/figures/DISPENSE.jpg)
+![DISPENSE](https://qinweizhang.github.io/kerry_research_blog/asset/figures/DISPENSE.jpg)
 
 
 This is the second part of my Ph.D. thesis.
